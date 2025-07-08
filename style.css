@@ -1,5 +1,5 @@
 body{
-    background-image: url("jj21.jpeg");
+    background-image: url("images/jj21.jpeg");
 }
 .field{
     
@@ -10,7 +10,7 @@ body{
     width: 120px;
 }
 .backcom{
-    background-image: url("black.jpeg") ;
+    background-image: url("images/black.jpeg") ;
     background: linear-gradient(to bottom right,#102542,#f87060 );
     border: 5px solid white;
     background-repeat: no-repeat;
